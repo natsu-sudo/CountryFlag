@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">One Fit Plus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="wrong_credential">Wrong Credential</string>
+    <string name="ok">Ok</string>
+    <string name="loading_data">Loading Data</string>
+    <string name="error_no_data">No data returned from server. Please try again</string>
+    <string name="error_network">Error fetching data. Please check network.</string>
+    <string name="error_unknown">Unknown error. %1$s</string>
+    <string name="network_error">Network Error</string>
+    <string name="country_code">Country Code: %1$s</string>
+    <string name="lat">Latitude: %1$s</string>
+    <string name="logi">Logitude: %1$s</string>
+    <string name="town_name">Town Name %1$s</string>
+</resources>
